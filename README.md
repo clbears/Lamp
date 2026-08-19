@@ -1,5 +1,5 @@
-# Luxora (lampencode)
-
+# Luxora
+2024
 An encoder-controlled dimmable lamp driver. Rotating the encoder adjusts brightness with perceptual (gamma-corrected) easing and rotation-speed-based acceleration; clicking toggles power with smooth fade in/out. The last brightness level is remembered across power cycles via EEPROM.
 
 ## Features
