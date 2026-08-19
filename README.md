@@ -17,3 +17,6 @@ An encoder-controlled dimmable lamp driver. Rotating the encoder adjusts brightn
 
 ## Libraries
 - [Adafruit_MCP4725](https://github.com/adafruit/Adafruit_MCP4725)
+
+## Prototype
+[`prototype-ambient-demo/`](prototype-ambient-demo/) contains an earlier automatic ambient-light-sensing version that was superseded by the manual encoder control used here.
